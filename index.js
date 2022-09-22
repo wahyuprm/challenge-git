@@ -1,4 +1,4 @@
 const firstName = "Wahyu";
 const lastName = "Purnomo";
 
-console.log("Halo, namaku " + firstName + " " + lastName);
+console.log("Halo, nama saya " + firstName + " " + lastName);
